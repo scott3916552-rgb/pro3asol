@@ -1,0 +1,16 @@
+# بيانات سرية - لا ترفعها أبداً
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pythonlibs/
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
